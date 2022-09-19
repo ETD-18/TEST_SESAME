@@ -16,6 +16,12 @@ A Raspberry PI 4 was utilized to concentrate the data and run the script.
 The script generates PNGs files like this one: \
 ![Cout-Eff-2021-12-25_05-20-interpolled](https://user-images.githubusercontent.com/1360703/191021179-31c387e9-8165-4717-8735-22893d57a047.png)
 
+## How to run
+To run the script, first install the dependencies with: \
+```python3 -m pip install -i requirements.txt```
+
+And then execute the script: \
+```python3 mult_test.py```
 
 ## Youtube Video 
 [![Alt text](https://img.youtube.com/vi/wNqoPtnReCA/0.jpg)](https://www.youtube.com/watch?v=wNqoPtnReCA) \
