@@ -7,7 +7,8 @@ one power supply and three DMMs were used in the setup.
  - 1 HAMEG / ROHDE & SCHARZ HMP4030
  - 1 ESCORT 3146A DMM
  - 2 HP/AGILENT 34401A
-
+ - 1 homemade DC load. The setpoint of which is controlled by the power supply.
+ 
 ![sesame test](https://user-images.githubusercontent.com/1360703/191019980-da6eb1cb-6837-425a-bdff-fdbdba81e3f3.png)
 
 A Raspberry PI 4 was utilized to concentrate the data and run the script.
@@ -22,6 +23,8 @@ To run the script, first install the dependencies with: \
 
 And then execute the script: \
 ```python3 mult_test.py```
+
+Note: Due to the poor writing of my code, you have to plug the equipment in a defined sequence.
 
 ## Youtube Video 
 [![Alt text](https://img.youtube.com/vi/wNqoPtnReCA/0.jpg)](https://www.youtube.com/watch?v=wNqoPtnReCA) \
