@@ -24,7 +24,8 @@ To run the script, first install the dependencies with: \
 And then execute the script: \
 ```python3 mult_test.py```
 
-Note: Due to the poor writing of my code, you have to plug the equipment in a defined sequence.
+Note: Due to the poor writing of my code, you have to plug the equipment in a defined sequence. \
+``` PSU > Vin DMM > Vout DMM > Iout DMM```
 
 ## Youtube Video 
 [![Alt text](https://img.youtube.com/vi/wNqoPtnReCA/0.jpg)](https://www.youtube.com/watch?v=wNqoPtnReCA) \
